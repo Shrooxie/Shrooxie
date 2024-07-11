@@ -12,6 +12,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 
+<div align="center">
+<a href="[https://github.com/Shrooxie//issues/1#issuecomment-new]">Guestbook</a> 
+</div>
+
 
 <!-- Guestbook -->
 | Name | Date | Message |
