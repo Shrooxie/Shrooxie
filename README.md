@@ -1,8 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrooxie&show_icons=true&theme=tokyonight)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrooxie&hide_progress=true&show_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrooxie&layout=pie&show_icons=true&theme=tokyonight)](https://github.com/Shrooxie/github-readme-stats)
 
 
@@ -11,18 +8,3 @@
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
-
-<div align="center">
-<a href="https://github.com/Shrooxie/Shrooxie/issues/1#issuecomment-new">Guestbook </a> 
-</div>
-
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /></a> | ||
-| <a href="https://github.com/"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /></a> | ||
-| <a href="https://github.com/"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /></a> | ||
-| <a href="https://github.com/"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /></a> | ||
-| <a href="https://github.com/"><img width="24" src="https://avatars.githubusercontent.com/u/" alt="" /></a> | ||
-<!-- /Guestbook -->
