@@ -17,9 +17,6 @@ jobs:
       - name: List root directory contents
         run: ls -la
 
-      - name: List Shrooxie directory contents
-        run: ls -la Shrooxie
-
       - name: Update guestbook from comments
         uses: actions/github-script@v6
         with:
