@@ -58,18 +58,18 @@ jobs:
             };
 
             const fileSystem = require('fs');
-            const readme = fileSystem.readFileSync('Shrooxie/README.md', 'utf8');
+            const readme = fileSystem.readFileSync('README.md', 'utf8');
             console.log(readme); // Debugging: Ausgabe des aktuellen README-Inhalts
 
             const updatedReadme = readme.replace(/(?<=<!-- Guestbook -->.*\n)[\S\s]*?(?=<!-- \/Guestbook -->|$(?![\n]))/gm, renderComments(result.repository.issue.comments.nodes));
             console.log(updatedReadme); // Debugging: Ausgabe des aktualisierten README-Inhalts
 
-            fileSystem.writeFileSync('Shrooxie/README.md', updatedReadme, 'utf8');
+            fileSystem.writeFileSync('README.md', updatedReadme, 'utf8');
 
       - name: Push guestbook update
         run: |
           git config --global user.name 'Github Actions'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add Shrooxie/README.md
+          git add README.md
           git commit -m ':sparkles: update guestbook'
           git push
