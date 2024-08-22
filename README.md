@@ -25,8 +25,6 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-| <a href="https://github.com/Shrooxie"><img width="24" src="https://avatars.githubusercontent.com/u/121855012?s=24&u=0836a860c109632575e27a58b5d61e894d2776a0&v=4" alt="Shrooxie" /> Shrooxie</a> |8/22/2024, 11:10:21 AM|aaa|
-| <a href="https://github.com/Shrooxie"><img width="24" src="https://avatars.githubusercontent.com/u/121855012?s=24&u=0836a860c109632575e27a58b5d61e894d2776a0&v=4" alt="Shrooxie" /> Shrooxie</a> |8/22/2024, 11:08:48 AM|AAAA|
 <!-- /Guestbook -->
 
 [<img src="https://static.wikia.nocookie.net/hollowknight/images/0/05/Mister_Mushroom_Fly.png">](https://github.com/Shrooxie/.github/issues/1)
