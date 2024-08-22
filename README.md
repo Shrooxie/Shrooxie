@@ -22,9 +22,9 @@
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 
 ## 𝙶𝚞𝚎𝚜𝚝𝚋𝚘𝚘𝚔
-
+𝙲𝚕𝚒𝚌𝚔 𝚘𝚗 𝚝𝚑𝚎 𝚖𝚞𝚜𝚑𝚛𝚘𝚘𝚖 𝚝𝚘 𝚠𝚛𝚒𝚝𝚎 𝚊𝚗 𝚎𝚗𝚝𝚛𝚢! ---> 
 [<img src="https://static.wikia.nocookie.net/hollowknight/images/0/05/Mister_Mushroom_Fly.png">](https://github.com/Shrooxie/.github/issues/1)
-𝙲𝚕𝚒𝚌𝚔 𝚘𝚗 𝚝𝚑𝚎 𝚖𝚞𝚜𝚑𝚛𝚘𝚘𝚖 𝚝𝚘 𝚠𝚛𝚒𝚝𝚎 𝚊𝚗 𝚎𝚗𝚝𝚛𝚢! ^
+
 <!-- Guestbook -->
 | 𝙽𝚊𝚖𝚎 | 𝙳𝚊𝚝𝚎 | 𝙼𝚎𝚜𝚜𝚊𝚐𝚎 |
 |---|---|---|
