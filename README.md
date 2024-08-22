@@ -26,8 +26,9 @@
 [<img src="https://static.wikia.nocookie.net/hollowknight/images/0/05/Mister_Mushroom_Fly.png">](https://github.com/Shrooxie/Shrooxie/issues/2)
 
 <!-- Guestbook -->
-| 𝙽𝚊𝚖𝚎 | 𝙳𝚊𝚝𝚎 | 𝙼𝚎𝚜𝚜𝚊𝚐𝚎 |
+| Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/EpicAlpaca55"><img width="24" src="https://avatars.githubusercontent.com/u/114081005?s=24&v=4" alt="EpicAlpaca55" /> EpicAlpaca55</a> |8/22/2024, 11:37:51 AM|I was sent here during work for this :D|
 <!-- /Guestbook -->
 
 
