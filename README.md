@@ -25,3 +25,5 @@
 <!-- Guestbook -->
 Hier werden die Kommentare angezeigt.
 <!-- /Guestbook -->
+
+[<img src="https://static.wikia.nocookie.net/hollowknight/images/0/05/Mister_Mushroom_Fly.png">](https://github.com/Shrooxie/.github/issues/1)
